@@ -1,0 +1,126 @@
+Generators
+
+
+E2
+phi2
+phi3
+psi3
+phi4
+phi5
+phi6
+psi6
+phi7
+phi8
+phi9
+
+
+Relations
+
+
+Weight 6
+
+phi2^3+phi3psi3-phi2phi4
+
+E2phi2^2-phi3^2+4phi2phi4
+
+
+Weight 7
+
+psi3phi4-phi2phi5
+
+phi2^2phi3+E2phi2psi3-phi3phi4+4phi2phi5
+
+
+weight 8
+
+phi2^2phi4-phi4^2+phi3phi5
+
+phi2phi3psi3+E2psi3^2-phi3phi5+4psi3phi5
+
+E2^3phi2+20E2phi3^2-136E2phi3psi3+384E2psi3^2+512phi2psi3^2+128E2phi2phi4-1248phi3phi5+1536psi3phi5-phi2psi6
+
+
+Weight 9
+
+phi3phi6-phi2phi7
+
+E2^3psi3+20E2^2phi2psi3+136phi3^2psi3-384phi3psi3^2+512psi3^3+72E2phi2phi5+320phi2^2phi5-864phi4phi5-psi3psi6
+
+E2^3phi3+20E2^2phi2phi3-136E2^2phi2psi3-384phi3^2psi3+512phi3psi3^2+208E2phi3phi4-1408E2phi2phi5-3456phi4phi5-phi3psi6
+
+
+Weight 10
+
+psi3phi7-phi2phi8
+
+phi2^2phi6-phi4phi6+phi2phi8
+
+E2phi2phi6+4phi4phi6-phi3phi7
+
+E2^3phi4+20E2^2phi2phi4+208E2phi4^2-136E2phi3phi5-1248phi2phi3phi5-864E2psi3phi5+512phi2psi3phi5-3456phi5^2-phi4psi6
+
+
+Weight 11
+
+phi3phi8-phi2phi9
+
+phi2^2phi7-phi4phi7+phi2phi9
+
+phi2psi3phi6-phi5phi6+psi3phi8
+
+E2psi3phi6+4phi5phi6-phi2phi9
+
+
+Weight 12
+
+phi2^2phi8-phi4phi8+psi3phi9
+
+E2phi2phi8+4phi4phi8-phi3phi9
+
+phi5phi7-phi4phi8
+
+E2^3phi6+512psi3^2phi6-512phi2phi4phi6-phi6psi6+20E2phi3phi7+128phi2phi3phi7-1216phi4phi8-8phi3phi9+384psi3phi9
+
+phi3^2psi3^2+26phi3psi3^3-27psi3^4+E2^2phi4^2-36E2phi2phi4^2-176phi4^3-6E2phi2phi3phi5-4E2^2psi3phi5-54E2phi2psi3phi5-56phi2^2psi3phi5-16phi3phi4phi5-96phi2phi5^2-phi6^2
+
+
+Weight 13
+
+E2psi3phi8+4phi5phi8+phi2^2phi9-phi4phi9
+
+E2^3phi7+20E2^2phi2phi7+208E2phi4phi7-psi6phi7+512phi2psi3phi8-136E2phi2phi9-384phi2^2phi9-864phi4phi9
+
+E2^2psi3^3-26E2phi2psi3^3-27phi2^2psi3^3-E2^2phi2phi3phi4+36E2phi3phi4^2+176phi2phi3phi4^2+22E2phi3^2phi5-83E2phi3psi3phi5+336E2psi3^2phi5+435phi2psi3^2phi5+336E2phi2phi4phi5+768phi4^2phi5-1100phi3phi5^2+1328psi3phi5^2-phi2phi5psi6+phi6phi7
+
+E2^3phi8+512psi3^2phi8-512phi2phi4phi8-psi6phi8+20E2phi3phi9+128phi2phi3phi9-8E2psi3phi9-384phi2psi3phi9-864phi5phi9
+
+
+Weight 14
+
+E2phi6^2+4phi2phi6^2-phi7^2+4phi6phi8
+
+E2^2phi2phi4^2-36E2phi4^3-176phi2phi4^3+E2^2phi2phi3phi5-20E2^2phi2psi3phi5-135phi3^2psi3phi5+410phi3psi3^2phi5-539psi3^3phi5-6E2phi3phi4phi5-192phi2phi3phi4phi5-318E2phi2phi5^2-376phi2^2phi5^2-phi2phi6^2+psi3phi5psi6-phi6phi8
+
+
+Weight 15
+
+phi7phi8-phi6phi9
+
+E2^2phi3phi4^2-36E2phi2phi3phi4^2-176phi3phi4^3-E2^2psi3^2phi5+26E2phi2psi3^2phi5+27phi2^2psi3^2phi5-58E2^2phi2phi4phi5-568E2phi4^2phi5-768phi2phi4^2phi5+83E2phi3phi5^2+332phi2phi3phi5^2-4E2psi3phi5^2-435phi2psi3phi5^2+phi4phi5psi6-phi2phi6phi7-phi6phi9
+
+
+Weight 16
+
+E2phi6phi8+4phi2phi6phi8+4phi8^2-phi7phi9
+
+E2phi3psi3^2phi5+26E2psi3^3phi5+27phi2psi3^3phi5+E2^2phi3phi4phi5-36E2phi2phi3phi4phi5-176phi3phi4^2phi5-58E2^2phi2phi5^2-82phi3^2phi5^2+332phi3psi3phi5^2-435psi3^2phi5^2-486E2phi4phi5^2-440phi2phi4phi5^2+phi5^2psi6-phi2phi6phi8-phi8^2
+
+
+Weight 17
+
+864E2^2phi2psi3^2phi5+607392phi3psi3^3phi5-606528psi3^4phi5-22464E2^2phi4^2phi5-1264896E2phi2phi4^2phi5-4561920phi4^3phi5-1728E2^2phi3phi5^2-508032E2phi2phi3phi5^2-509760E2^2psi3phi5^2-1232064E2phi2psi3phi5^2-1234656phi2^2psi3phi5^2+55296phi3phi4phi5^2-1679616E2phi5^3-2712096phi2phi5^3-22464phi5phi6^2+E2^3phi5psi6+20E2^2phi2phi5psi6+136phi3^2phi5psi6-384phi3psi3phi5psi6+512psi3^2phi5psi6+72E2phi4phi5psi6+320phi2phi4phi5psi6-phi5psi6^2-864phi2phi6phi9-864phi8phi9
+
+
+Weight 18
+
+2985984E2^2phi2phi3phi4phi5-107495424E2phi3phi4^2phi5-525533184phi2phi3phi4^2phi5-1679616E2^4phi5^2+383698944E2phi3^2phi5^2-3514503168E2phi3psi3phi5^2+10970505216E2psi3^2phi5^2+15751065600phi2psi3^2phi5^2-282175488E2^2phi4phi5^2+2609750016E2phi2phi4phi5^2-4395368448phi4^2phi5^2-37205360640phi3phi5^3+45712429056psi3phi5^3+E2^6psi6+293632E2^2phi2psi3^2psi6-90778624phi3psi3^3psi6+99248640psi3^4psi6-3057920E2^2phi4^2psi6+111819776E2phi2phi4^2psi6+546349056phi4^3psi6+13696E2^2phi3phi5psi6+19134464E2phi2phi3phi5psi6+12418816E2^2psi3phi5psi6+165814784E2phi2psi3phi5psi6+182665216phi2^2psi3phi5psi6+49268736phi3phi4phi5psi6+1430784E2phi5^2psi6+230790144phi2phi5^2psi6+3104256phi6^2psi6-2E2^3psi6^2-400phi3^2psi6^2-2560phi3psi3psi6^2-30656psi3^2psi6^2+1280phi2phi4psi6^2+psi6^3-2985984phi4phi6phi8+746496E2phi8^2-746496phi9^2
