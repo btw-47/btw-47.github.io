@@ -149,7 +149,7 @@ class EtaProduct:
             return EtaProduct(None, data = [self.__level, other * self.__qexp, self.__shift, self.__weight])
         f = self.__qexp * other.__qexp
         offset = self.__shift + other.__shift
-        if offset > 1:
+        if offset >= 1:
             offset -= 1
             f = f.shift(1)
         return EtaProduct(None, data = [lcm(self.__level, other.__level), f, offset, self.__weight + other.__weight])
